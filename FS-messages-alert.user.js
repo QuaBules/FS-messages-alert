@@ -12,6 +12,6 @@ if(!document.getElementById("nav-character-messages").innerHTML.includes("(0)"))
   document.getElementById("nav-box-character").style.color="black";
   document.getElementById("nav-box-character").style.background="gold";
 }
-msg=document.getElementById("nav-character-messages").innerHTML.replace("Messages","");
-chr=document.getElementById("nav-character");
+var msg=document.getElementById("nav-character-messages").innerHTML.replace("Messages","");
+var chr=document.getElementById("nav-character");
 chr.innerHTML=chr.innerHTML.replace("Character","Character"+msg);
