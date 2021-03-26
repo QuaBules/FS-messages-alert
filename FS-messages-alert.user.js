@@ -2,6 +2,7 @@
 // @name        Fallen Sword Message Alert
 // @namespace   Fallen Sword Message Alert
 // @include     https://fallensword.com/*
+// @author      QuaBules
 // @version     1
 // @grant       none
 // ==/UserScript==
