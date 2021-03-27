@@ -2,9 +2,10 @@
 // @name        Fallen Sword Message Alert
 // @namespace   https://github.com/QuaBules/FS-messages-alert
 // @include     https://fallensword.com/*
+// @include     https://www.fallensword.com/*
 // @description an attempt to alert the player to a new message
 // @author      QuaBules
-// @version     1.1
+// @version     1
 // @grant       none
 // ==/UserScript==
 
